@@ -1,0 +1,1 @@
+const happy = "Very happy"
